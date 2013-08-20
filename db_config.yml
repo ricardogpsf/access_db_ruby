@@ -1,0 +1,3 @@
+dbname: 'beauty_development' 
+user: 'postgres'
+password: 'postgres'
